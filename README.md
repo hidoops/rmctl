@@ -2,6 +2,14 @@
 
 CLI tool for managing RapidMiner AI Hub with Docker Compose.
 
+## Download
+
+[Latest Release](https://github.com/hidoops/rmctl/releases/latest)
+
+```bash
+curl -LO https://github.com/hidoops/rmctl/releases/latest/download/rmctl-1.1.1.zip
+```
+
 ## Setup
 
 ```bash
